@@ -33,9 +33,15 @@ sfpanel lnDV lnIV1 lnIV2 yr, model(tfe) dist(exp)
 /*Predict levels of technical efficiency*/
 
 sfpanel lnDV lnIV1 lnIV2 yr, model(tfe) dist(exp)
+
 predict te, jlms
+
 sum te
+
 sfpanel lnDV lnIV1 lnIV2 yr, model(tfe) dist(exp)
+
 predict exp, jlms
+
 /*How to graph*/
+
 histogram te
