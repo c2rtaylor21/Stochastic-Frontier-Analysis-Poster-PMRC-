@@ -2,9 +2,9 @@
 
 **Tutorial Videos**
 
- Panel Example by Brian Mazorodze https://youtu.be/12ipB--Z4C0 
- 
- Cross Sectional Example by Brian Mazorodze https://www.youtube.com/watch?v=EXIhQB44GdI 
+**** Panel Example by Brian Mazorodze https://youtu.be/12ipB--Z4C0 ****
+
+******Cross Sectional Example by Brian Mazorodze https://www.youtube.com/watch?v=EXIhQB44GdI **
 
 /*STATA CODE TEMPLATE*/
 
